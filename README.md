@@ -1,2 +1,2 @@
-# MaksimVoskresenskiy.github.io
+# Максим Воскресенский
 Мой первый сайт
